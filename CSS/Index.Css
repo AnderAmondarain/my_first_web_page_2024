@@ -1,0 +1,38 @@
+.fondo img {
+    width: 50%; /* Ajusta la imagen al 50% del ancho del contenedor */
+    height: auto; /* Mantiene las proporciones originales */
+    display: block; /* Asegura que no haya espacio alrededor de la imagen */
+    float: left;
+}
+header {
+    background-color: black; /* Fondo claro para resaltar el negro */
+    color: black; /* Color del texto */
+    padding: 20px; /* Espaciado interno */
+    display: flex; /* Distribución en línea */
+    justify-content: space-between; /* Espacio entre logo y navegación */
+    align-items: center; /* Centrado vertical */
+    border-bottom: 2px solid #ccc; /* Línea para separación */
+}
+
+header nav a {
+    text-decoration: none; /* Sin subrayado */
+    color: white; /* Color del texto */
+    font-size: 1rem; /* Tamaño de fuente */
+     padding-left:10px; /* Espaciado interno */
+    border-radius: 5px; /* Bordes redondeados */
+}
+
+.texto{
+    padding-top: 100px;
+    padding-right: 10px;
+}
+
+
+.texto h3{
+    color: black;
+    font-weight: normal;
+    font-family:'Montserrat', sans-serif;
+}
+
+
+

@@ -1,9 +1,3 @@
-.fondo img {
-    width: 50%; /* Ajusta la imagen al 50% del ancho del contenedor */
-    height: auto; /* Mantiene las proporciones originales */
-    display: block; /* Asegura que no haya espacio alrededor de la imagen */
-    float: left;
-}
 header {
     background-color: black; /* Fondo claro para resaltar el negro */
     color: black; /* Color del texto */
@@ -18,22 +12,6 @@ header nav a {
     text-decoration: none; /* Sin subrayado */
     color: white; /* Color del texto */
     font-size: 1rem; /* Tamaño de fuente */
-    padding-left:10px; /* Espaciado interno */
+     padding-left:10px; /* Espaciado interno */
     border-radius: 5px; /* Bordes redondeados */
 }
-
-.texto{
-    padding-top: 100px;
-    padding-right: 10px;
-}
-
-
-.texto h3{
-    color: black;
-    font-weight: normal;
-    font-family:'Montserrat', sans-serif;
-}
-
-
-
-

@@ -1,19 +1,18 @@
 header {
-    background-color: black; 
-    color: black; 
-    padding: 20px; 
-    display: flex; 
-    justify-content: space-between; 
-    align-items: center; 
-    border-bottom: 2px solid #ccc; 
+    background-color: black;
+    color: black;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid white;
 }
-
 header nav a {
-    text-decoration: none; 
-    color: white; 
-    font-size: 1rem; 
-     padding-left:10px; 
-    border-radius: 5px; 
+    text-decoration: none;
+    color: white;
+    font-size: 1rem;
+    padding-left: 10px;
+    border-radius: 5px;
 }
 .footer {
     background-color: black;
@@ -38,4 +37,37 @@ header nav a {
     color: white;
     font-weight: normal;
     font-family:'Montserrat', sans-serif;
+}
+.tabla {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    font-weight: normal;
+    font-family:'Montserrat', sans-serif;
+   
+}
+.fila {
+    display: flex;
+    
+}
+.fila:last-child {
+    border-bottom: none;
+}
+.celda {
+    flex: 1;
+    padding: 10px;
+    text-align: center;
+    font-weight: normal;
+    font-family:'Montserrat', sans-serif;
+}
+.celda a {
+    color: #2196f3;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+.celda a:hover {
+    color: #0b7dda;
+}
+.Título {
+    display: flex;
 }

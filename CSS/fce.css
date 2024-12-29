@@ -13,64 +13,25 @@ header nav a {
     color: white; 
     font-size: 1rem; 
     padding-left:10px; 
-    border-radius: 5px; 
-}
-.fondo img {
-    width: 25%; 
-    height: auto; 
-    display: block; 
-    float: left;
-}
-.bottom-left-text {
-    position: absolute;
-    bottom: -650px;
-    left: 10px;
-    padding: 5px 10px;
     border-radius: 5px;
-}    
-.bottom-left-text h1 {
-    font-size: 1rem;
-    font-weight: normal;
-    font-family:'Montserrat', sans-serif;
-    
-}
-.bottom-left-text h2 {
-    font-size: 1.15rem;
-    font-weight: normal;
-    font-family:'Montserrat', sans-serif;
-}
-.bottom-left-text h3 {
-    font-size: 2rem;
-    font-family:'Montserrat', sans-serif;
-}
-.texto h1 {
-    font-family:'Montserrat', sans-serif;
-    font-size: 2rem;
 }
 .texto h3 {
+    color: black;
     font-weight: normal;
     font-family:'Montserrat', sans-serif;
-    font-size: 1.15rem;
+    font-size: 1.2rem;
 }
-.fondo-2 img {
-    width: 25%; 
-    height: auto; 
-    display: block; 
-    float: right;
-    padding-top: 440px;
-}
-.fondo-3 img {
-    width: 30%;  
-    position: relative;
-    left: 350px;
-    bottom: 50px;
+.texto h1 {
+    color: black;
+    font-family:'Montserrat', sans-serif;
+    font-size: 2rem;
 }
 .footer {
     background-color: black;
     color: black;
     text-align: center;
     padding: 10px 0;
-    margin-top: 600px;
+    margin-top: 190px;
 }
 .footer a:hover {
     color:black;
@@ -89,5 +50,3 @@ header nav a {
     font-weight: normal;
     font-family:'Montserrat', sans-serif;
 }
-
-    

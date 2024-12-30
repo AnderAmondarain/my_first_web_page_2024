@@ -5,17 +5,28 @@ This is the repository for the practical work II.
 ## Actions
 
 -Added the basic structure to the html file.
+
 -Added header.
 -Added  index file.
+
 -Added images and content for the section.
+
 -Added the about me file, the degree file, the contact file, the topic file, and, the net file.
+
 -Added images and content for the about me section.
+
 -Added images and content for the topic section.
+
 -Added images and content for the contact section.
+
 -Added images and content for the degree section.
+
 -Added the fce file.
+
 -Added content for the fce section.
+
 -Added footer.
+
 
 ## Description
 -More of Ander is a website in which you can find information about: me, Ander, academic and personal; the blockchain application to the voting system;and, the double degree I'm studying and the Fundamentals of computer engineering course. Moreover, you can see webs of other people, and, you can contact me!

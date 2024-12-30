@@ -7,6 +7,7 @@ This is the repository for the practical work II.
 -Added the basic structure to the html file.
 
 -Added header.
+
 -Added  index file.
 
 -Added images and content for the section.

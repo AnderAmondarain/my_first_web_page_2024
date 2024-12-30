@@ -1,6 +1,6 @@
-# My first web page repository
+# More of Ander repository
 
-This is the repository for the activity III.
+This is the repository for the practical work II.
 
 ## Actions
 

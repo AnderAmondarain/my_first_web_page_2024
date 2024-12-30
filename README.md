@@ -27,6 +27,10 @@ This is the repository for the practical work II.
 
 -Added footer.
 
+-Added net section.
+
+-Added organisation.
+
 
 ## Description
 -More of Ander is a website in which you can find information about: me, Ander, academic and personal; the blockchain application to the voting system;and, the double degree I'm studying and the Fundamentals of computer engineering course. Moreover, you can see webs of other people, and, you can contact me!
